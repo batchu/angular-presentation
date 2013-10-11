@@ -1,24 +1,6 @@
-BillRive
+AngularJS
 -------------------
-billrive-service
-billrive-client
+This provides an introduction to Angular JS.
+Run index.html in a browser (or preferebly serve it through a http container to better resolve the ajax calls in some slides).
+Press 's' on your keyboard to expose the notes.
 -------------------
-
-
-billrive-service
-Spring RESTful WebService
-
-billrive-client
-Currently a Angular JS Seeded project. Will basically consume the billrive-service
-
-
-
-Download and Install Glassfish Server.
-Deploy billrive-service on /billrive-service context
-Deploy billrive-client on /billrive-client context
-
-
-
-
-
-
