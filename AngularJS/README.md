@@ -1,3 +1,15 @@
+AngularJS
+-------------------
+This provides an introduction to Angular JS.
+Run index.html in a browser (or preferebly serve it through a http container to better resolve the ajax calls in some slides).
+Press 's' on your keyboard to expose the notes.
+-------------------
+
+
+Built using reveal.js. Read below for its documentation.
+
+
+
 # reveal.js [![Build Status](https://travis-ci.org/hakimel/reveal.js.png?branch=master)](https://travis-ci.org/hakimel/reveal.js)
 
 A framework for easily creating beautiful presentations using HTML. [Check out the live demo](http://lab.hakim.se/reveal-js/).
